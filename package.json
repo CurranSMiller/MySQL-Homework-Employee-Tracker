@@ -1,0 +1,25 @@
+{
+  "name": "mysql-homework-employee-tracker",
+  "version": "1.0.0",
+  "description": "Mock content management system",
+  "main": "index.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CurranSMiller/MySQL-Homework-Employee-Tracker.git"
+  },
+  "author": "Curran Miller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CurranSMiller/MySQL-Homework-Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/CurranSMiller/MySQL-Homework-Employee-Tracker#readme"
+}
